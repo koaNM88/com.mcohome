@@ -13,7 +13,7 @@
   "zwave": {
     "manufacturerId": [351],
     "productTypeId": [43011],
-    "productId": [4946],
+    "productId": [4945],
     "learnmode": {
       "image": "{{driverAssetsPath}}/learnmode.svg",
       "instruction": {
